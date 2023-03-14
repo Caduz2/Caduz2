@@ -4,8 +4,6 @@
 )](https://www.linkedin.com/in/carlos-eduardo-324899230/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white
 )](https://www.codewars.com/users/Caduz2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](https://mail.google.com/mail/u/0/#inbox?compose=CSkGSFfgQfRRdmwkZKSMFzNRjDlqTCJdQQgWLTrPmGkDPfzvBFLMTSSDzMgVBllLqcNBBXghVdqmZzLKSQsMCZqVMPpXshQpjFJxdFDJNcrNNZGMKwhNcbsVxlltHCMqxzKvhNXqpQNgxmSMJTBWRgmkkWqZPVbcXNr)
 
 ![Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=caduz2&show_icons=true&theme=apprentice)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&langs_count=8&hide=dockerfile&layout=compact&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
