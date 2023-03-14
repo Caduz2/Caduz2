@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](https://mail.google.com/mail/u/0/#inbox?compose=CSkGSFfgQfRRdmwkZKSMFzNRjDlqTCJdQQgWLTrPmGkDPfzvBFLMTSSDzMgVBllLqcNBBXghVdqmZzLKSQsMCZqVMPpXshQpjFJxdFDJNcrNNZGMKwhNcbsVxlltHCMqxzKvhNXqpQNgxmSMJTBWRgmkkWqZPVbcXNr)
 
-![Wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=wgomesl&show_icons=true&theme=apprentice)<br/>
+![Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=wgomesl&show_icons=true&theme=apprentice)<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wgomesl&langs_count=8&hide=dockerfile&layout=compact&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
